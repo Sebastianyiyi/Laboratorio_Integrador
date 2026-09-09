@@ -1,0 +1,12 @@
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\bin\Debug\net9.0\LibroFacil.Domain.deps.json
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\bin\Debug\net9.0\LibroFacil.Domain.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\bin\Debug\net9.0\LibroFacil.Domain.pdb
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.sourcelink.json
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\refint\LibroFacil.Domain.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\LibroFacil.Domain.pdb
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Domain\obj\Debug\net9.0\ref\LibroFacil.Domain.dll
