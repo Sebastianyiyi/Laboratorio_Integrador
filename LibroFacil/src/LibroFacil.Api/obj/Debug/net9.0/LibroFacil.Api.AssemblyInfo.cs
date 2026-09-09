@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibroFacil.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b7555b84038f14c22cf9187dd4aeca4e6bb01a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72942e8cc5128b6b1e241b8051b7d95bd61fed7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibroFacil.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibroFacil.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
