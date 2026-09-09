@@ -1,0 +1,16 @@
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.sourcelink.json
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\bin\Debug\net9.0\LibroFacil.Application.deps.json
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\bin\Debug\net9.0\LibroFacil.Application.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\bin\Debug\net9.0\LibroFacil.Application.pdb
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\bin\Debug\net9.0\LibroFacil.Domain.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\bin\Debug\net9.0\LibroFacil.Domain.pdb
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFac.7BE4487E.Up2Date
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\refint\LibroFacil.Application.dll
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\LibroFacil.Application.pdb
+C:\Users\sebas\Documents\GitHub\Laboratorio_Integrador\LibroFacil\src\LibroFacil.Application\obj\Debug\net9.0\ref\LibroFacil.Application.dll
