@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wobEPygEStg=",
+  "dgSpecHash": "4pnk2dPlcdw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Api\\LibroFacil.Api.csproj",
+  "projectFilePath": "c:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Api\\LibroFacil.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

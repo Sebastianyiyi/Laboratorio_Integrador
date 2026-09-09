@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Domain\\LibroFacil.Domain.csproj": {
-              "projectPath": "C:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Domain\\LibroFacil.Domain.csproj"
+            "c:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Domain\\LibroFacil.Domain.csproj": {
+              "projectPath": "c:\\Users\\sebas\\Documents\\GitHub\\Laboratorio_Integrador\\LibroFacil\\src\\LibroFacil.Domain\\LibroFacil.Domain.csproj"
             }
           }
         }
